@@ -4,6 +4,8 @@
   <img align="left" alt="Sean Burns | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+<br>
+
 Hi, I'm Sean Burns, an Associate Professor of Information Science at the University of Kentucky. My GitHub repos generally contain three types of content:
 
 - teaching material
@@ -22,6 +24,7 @@ I use and practice:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cseanburns&theme=blue-green)
 
 <!--
 **cseanburns/cseanburns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
