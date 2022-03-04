@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/cseanburns">
+<p><a href="https://twitter.com/cseanburns">@cseanburns
   <img align="left" alt="Sean Burns | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a></p>
 
-<br>
-
-Hi, I'm Sean Burns, an Associate Professor of Information Science at the University of Kentucky. My GitHub repos generally contain three types of content:
+<p>Hi, I'm Sean Burns, an Associate Professor of Information Science at the University of Kentucky. My GitHub repos generally contain three types of content:</p>
 
 - teaching material
 - research projects
