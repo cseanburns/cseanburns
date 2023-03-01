@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <p>Hi, I'm 
-  <a href="https://twitter.com/cseanburns">@cseanburns
-  <img alt="Sean Burns | Twitter @cseanburns" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>, and I work as an Associate Professor of Library and Information Science and Information, Communication, and Technology at the University of Kentucky.</p>
+  Sean Burns, and I work as an Associate Professor of Library and Information Science and Information, Communication, and Technology at the University of Kentucky.</p>
 <p>My GitHub repos generally contain three types of content:</p>
 
 - teaching material
